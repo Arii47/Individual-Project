@@ -1,0 +1,15 @@
+
+   
+<% if(data){
+    var table=''
+    data.forEach(function(each){
+        table+='<tr> 
+            <td>'+each.artistName+'</td>
+            <td>'+each.artistFB+'</td>
+            <td>'+each.formationYear+'</td>
+            <td>'+each.artistGenre+'</td>
+            <td>'+each.artistBio+'</td>
+        </tr>'
+    }); %>
+    <%- table %>
+<% } %>
