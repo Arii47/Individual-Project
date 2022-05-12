@@ -1,4 +1,7 @@
 # IndividualProjectsSetC
 IndividualProjectsSetC
 
-THE NODE MODULE FILE IS MISSING BUT ITS IN THE ZIPPED FILE OF THE INDIVIDUAL PROJECT!
+The node_modules folder is missing here, but it can be found in the zipped folder. 
+This was one of the individual project I worked on which required html, javascript, css, node.js, docker, postgres and sql. 
+
+It is not fully finished.
